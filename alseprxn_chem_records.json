@@ -1,0 +1,63 @@
+[{
+{
+"names": [NITRIC ACID; 7697-37-2; Azotic Acid; Hydrogen Nitrate; HNO3],
+"pure substance": true,
+"CAS": "7697-37-2",
+"SMILES": "[N+](=O)(O)[O-]",
+"InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+"InChI": "InChI=1S/HNO3/c2-1(3)4/h(H,2,3,4)",
+"PubchemCID": "944" 
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/944"
+},
+{
+"names":[DODECANE; N-Dodecane; 112-40-3; Dihexyl; Bihexyl; Adakane 12; N-Dodecan; 93685-81-5],
+"pure substance": true,
+"CAS": "112-40-3", 
+"SMILES": "CCCCCCCCCCCC",
+"InChIKey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",  
+"InChI": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
+"PubchemCID":"8182",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8182"
+},
+{
+"names": {0,2'-Oxybis(N,N-Dioctylacetamide); 342794-43-8; Acetamide, 2,2'-[N,N-Dioctyl-; 2-[2-(Dioctylamino)-2-Oxoethoxy]-N,N-Dioctylacetamide; MFCD23135286; 2,2'-Oxybis(N,N-Di-N-Octylacetamide); 2-Dioctylcarbamoylmethoxy-N,N-Dioctyl-Acetamide; N,N,N',N'-Tetraoctyl Diglycolamide},
+"pure substance": true,
+"CAS": "342794-43-8",
+"SMILES": "CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC",  
+"InChIKey": "VRZYWIAVUGQHKB-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C36H72N2O3/c1-5-9-13-17-21-25-29-37(30-26-22-18-14-10-6-2)35(39)33-41-34-36(40)38(31-27-23-19-15-11-7-3)32-28-24-20-16-12-8-4/h5-34H2,1-4H3",
+"PubchemCID": "70700400",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70700400"
+},
+{
+"names": [14802-03-0; Phosphonic Acid, P-(2-Ethylhexyl)-, Mono(2-Ethylhexyl) Ester; 2-Ethylhexyl Hydrogen -2-Ethylhexylphosphonate; 2-Ethylhexoxy(2-Ethylhexyl)Phosphinic Acid; (2-Ethylhexyl)Phosphonic Acid Mono-2-Ethylhexyl Ester; 2-Ethylhexylhydrogen-2-Ethylhexylphosphonate; Phosphonic Acid, (2-Ethylhexyl)-, Mono(2-Ethylhexyl) Ester; Mono-2-Ethylhexyl (2-Ethylhexyl)Phosphonate],
+"pure substance": true,
+"CAS": "14802-03-0",
+"SMILES": "CCCCC(CC)COP(=O)(CC(CC)CCCC)O", 
+"InChIKey": "ZDFBXXSHBTVQMB-UHFFFAOYSA-N",
+"InChI": "InChI=1S/C16H35O3P/c1-5-9-11-15(7-3)13-19-20(17,18)14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",
+"PubchemCID: "85771",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85771"
+},
+{
+"names": [Citric Acid Monohydrate; 5949-29-1; Citric Acid Hydrate; 2-Hydroxypropane-1,2,3-Tricarboxylic Acid Hydrate; ...; Citric Acid Monohydrate, Puriss. P.A., ACS Reagent, Reag. ISO, Reag. Ph. Eur., Buffer Substance, 99.5-102%],
+"pure substance": true,
+"CAS": "5949-29-1",
+"SMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O.O",  
+"InChIKey": "YASYEJJMZJALEJ-UHFFFAOYSA-N",  
+"InChI": "InChI=1S/C6H8O7.H2O/c7-3(8)1-6(13,5(11)12)2-4(9)10;/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);1H2",  
+"PubchemCID": "22230",  
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/22230"
+},
+{
+"names": [140-01-2; Pentasodium DTPA; PENTASODIUM PENTETATE; Pentasodium Diethylenetriaminepentaacetate; Tetralon B],
+"pure substance": true,
+"CAS": "140-01-2",
+"SMILES": "C(CN(CC(=O)[O-])CC(=O)[O-])N(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+]",
+"InChIKey": "LQPLDXQVILYOOL-UHFFFAOYSA-I",
+"InChI": "InChI=1S/C14H23N3O10.5Na/c18-10(19)5-15(1-3-16(6-11(20)21)7-12(22)23)2-4-17(8-13(24)25)9-14(26)27;;;;;/h1-9H2,(H,18,19)(H,20,21)(H,22,23)(H,24,25)(H,26,27);;;;;/q;5*+1/p-5",
+"PubchemCID": "8779",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8779"
+},
+
+}]
